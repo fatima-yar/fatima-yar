@@ -1,5 +1,4 @@
-## Hi there 👋
-<p>Hello</p>
+<h4> I'm a Full Stack Developer with a passion for crafting seamless digital experiences. I transitioned from a decade-long career in interior design to the dynamic world of web development, bringing a unique blend of creativity and technical expertise to my projects.</h4>
 <!--
 **fatima-yar/fatima-yar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
