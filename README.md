@@ -3,7 +3,7 @@
 <p> I'm a Full Stack Developer with a passion for crafting seamless digital experiences. I transitioned from a decade-long career in interior design to the dynamic world of web development, bringing a unique blend of creativity and technical expertise to my projects.</p>
 
 🛠 My technical skill set includes:
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React,Astro,Tailwind CSS
 - **Backend**: Node.js, SQLite3, Knex
   
 <p>🌟 With my background in design, I pay close attention to detail and love solving problems in creative ways. I'm all about teamwork and making sure projects run smoothly from start to finish. </p>
