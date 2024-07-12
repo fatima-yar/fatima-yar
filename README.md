@@ -4,7 +4,7 @@
 
 🛠 My technical skill set includes:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Astro,Tailwind CSS
-- **Backend**: Node.js, SQLite3, Knex
+- **Backend**: Node.js, Express.js, SQLite3, Knex
   
 <p>🌟 With my background in design, I pay close attention to detail and love solving problems in creative ways. I'm all about teamwork and making sure projects run smoothly from start to finish. </p>
 <p>🚀 I'm always curious and eager to learn new things. Whether it's designing a sleek UI or building a solid backend, I'm excited to create digital solutions that make a difference.</p>
