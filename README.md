@@ -11,7 +11,9 @@
 
 📄 [Please find my CV here](https://drive.google.com/file/d/1mmUvaNZLvCOm36xRphLu-GXKk0lXyyK7/view)
 
+![fatima-yar's Stats](https://github-readme-stats.vercel.app/api?username=fatima-yar&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![fatima-yar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatima-yar&theme=radical&hide_border=false)
+![fatima-yar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-yar&theme=radical&show_icons=true&hide_border=false&layout=compact)
 <!--
 **fatima-yar/fatima-yar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
