@@ -10,6 +10,8 @@
 <p>🚀 I'm always curious and eager to learn new things. Whether it's designing a sleek UI or building a solid backend, I'm excited to create digital solutions that make a difference.</p>
 
 📄 [Please find my CV here](https://drive.google.com/file/d/1mmUvaNZLvCOm36xRphLu-GXKk0lXyyK7/view)
+
+![fatima-yar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatima-yar&theme=radical&hide_border=false)
 <!--
 **fatima-yar/fatima-yar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
