@@ -9,7 +9,10 @@
 <p>🌟 With my background in design, I pay close attention to detail and love solving problems in creative ways. I'm all about teamwork and making sure projects run smoothly from start to finish. </p>
 <p>🚀 I'm always curious and eager to learn new things. Whether it's designing a sleek UI or building a solid backend, I'm excited to create digital solutions that make a difference.</p>
 
-📄 [Please find my CV here]([https://drive.google.com/file/d/1V7SiTeouBjzm48H6INKF698YVq1b51Pn/view])
+<p>🔗 <a href="https://fatima-yar.github.io/">Explore my portfolio here</a></p>
+
+<p>📄 <a href="https://drive.google.com/file/d/1V7SiTeouBjzm48H6INKF698YVq1b51Pn/view">You can view my CV here</a></p>
+
 
 ## GitHub Stats
 
